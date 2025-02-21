@@ -10,7 +10,7 @@
 
 <h2>Lab task on the subject "Expert systems":</h2>
 <ol>
-  <li>Depth First Search, DFS in Graph (Поиск в глубину в графе) - in 'lab1_4'</li>
+  <li>Depth First Search, DFS in Graph (Поиск в глубину в графе) - in 'lab1_alternative'</li>
   <li>Breadth-First Search, BFS in Graph (Поиск в ширину в графе) - in 'width_of_data'</li>
   <li>Method of Resolution (Метод резолюции) - in 'Resolution_procedure'</li>
 </ol>
