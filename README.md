@@ -9,3 +9,8 @@
 </div>
 
 <h2>Lab task on the subject "Expert systems":</h2>
+<ol>
+  <li>Depth First Search, DFS in Graph (Поиск в глубину в графе) - lab1_4</li>
+  <li>Breadth-First Search, BFS in Graph (Поиск в ширину в графе) - width_</li>
+  <li>Метод резолюции</li>
+</ol>
