@@ -14,3 +14,11 @@
   <li>Breadth-First Search, BFS in Graph (Поиск в ширину в графе) - in 'width_of_data'</li>
   <li>Method of Resolution (Метод резолюции) - in 'Resolution_procedure'</li>
 </ol>
+
+<h3>Graph №1</h3>
+
+![graph2](https://github.com/user-attachments/assets/4c4940bb-9bd8-41bc-8b4d-a04be0a3633f)
+
+<h3>Graph №2</h3>
+
+![graph1](https://github.com/user-attachments/assets/c63daf1d-23a3-413b-9c3a-190e4b8e3297)
